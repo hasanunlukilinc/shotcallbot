@@ -7,6 +7,8 @@
 
 ---
 
+![ShotCall.bot Banner](shotcall-afis.png)
+
 ## Overview
 
 **ShotCall.bot** is an advanced Discord voice coordination platform designed for large-scale PvP battles, guild wars, alliance raids, and multi-squad tactical operations. It allows commanders to transmit voice streams instantly across multiple channels and even across allied Discord servers.
