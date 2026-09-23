@@ -34,6 +34,21 @@
 | `/status` | Manages and toggles active routing paths. |
 | `/stop` | Terminates the voice transmission stream. |
 
+
+## Supported Languages
+
+| Language | Code | Flag / Region |
+| :--- | :---: | :---: |
+| English | `en` | 🇬🇧 / 🇺🇸 |
+| Türkçe | `tr` | 🇹🇷 |
+| Deutsch (German) | `de` | 🇩🇪 |
+| Español (Spanish) | `es` | 🇪🇸 |
+| Português (Portuguese) | `pt` | 🇵🇹 / 🇧🇷 |
+| Italiano (Italian) | `it` | 🇮🇹 |
+| Français (French) | `fr` | 🇫🇷 |
+| Русский (Russian) | `ru` | 🇷🇺 |
+| Slovenščina (Slovenian) | `sl` | 🇸🇮 |
+
 ## Official Links
 
 - **Official Website:** [shotcall.bot](https://shotcall.bot)
