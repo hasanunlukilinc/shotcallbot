@@ -41,13 +41,13 @@
 | :--- | :---: | :---: |
 | English | `en` | 🇬🇧 / 🇺🇸 |
 | Türkçe | `tr` | 🇹🇷 |
-| Deutsch (German) | `de` | 🇩🇪 |
-| Español (Spanish) | `es` | 🇪🇸 |
-| Português (Portuguese) | `pt` | 🇵🇹 / 🇧🇷 |
-| Italiano (Italian) | `it` | 🇮🇹 |
-| Français (French) | `fr` | 🇫🇷 |
-| Русский (Russian) | `ru` | 🇷🇺 |
-| Slovenščina (Slovenian) | `sl` | 🇸🇮 |
+| Deutsch  | `de` | 🇩🇪 |
+| Español  | `es` | 🇪🇸 |
+| Português  | `pt` | 🇵🇹 / 🇧🇷 |
+| Italiano  | `it` | 🇮🇹 |
+| Français  | `fr` | 🇫🇷 |
+| Русский  | `ru` | 🇷🇺 |
+| Slovenščina  | `sl` | 🇸🇮 |
 
 ## Official Links
 
